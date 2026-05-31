@@ -116,11 +116,6 @@ pytest tests/
 <img width="816" height="796" alt="image" src="https://github.com/user-attachments/assets/058a4f3a-8835-478a-8075-25f65bc9864f" />
 
 
-Store images in:
-
-```text
-screenshots/
-```
 
 ## 🎯 Key Learning Outcomes
 
