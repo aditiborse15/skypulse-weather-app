@@ -117,4 +117,4 @@ def weather():
 
 if __name__ == "__main__":
     # debug=True → auto-reloads when you change the code
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
