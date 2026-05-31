@@ -2,6 +2,11 @@
 
 SkyPulse is a Python-based weather forecasting application that provides real-time weather information and 5-day forecasts using the OpenWeatherMap API. The project includes both a Command Line Interface (CLI) and a Flask-powered web application, demonstrating API integration, web development, error handling, and software testing.
 
+## 🔗 Live Demo
+
+https://skypulse-weather-app.onrender.com/
+
+
 ## 🚀 Features
 
 * Real-time weather information for any city
