@@ -113,11 +113,8 @@ pytest tests/
 
 ## 📸 Screenshots
 
-Add screenshots of:
+<img width="816" height="796" alt="image" src="https://github.com/user-attachments/assets/058a4f3a-8835-478a-8075-25f65bc9864f" />
 
-* Home Page
-* Weather Search Results
-* 5-Day Forecast
 
 Store images in:
 
